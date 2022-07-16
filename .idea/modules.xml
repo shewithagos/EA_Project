@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BookClient/BookApplication.iml" filepath="$PROJECT_DIR$/BookClient/BookApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BookApplication/BookApplication (2).iml" filepath="$PROJECT_DIR$/BookApplication/BookApplication (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EA Project.iml" filepath="$PROJECT_DIR$/.idea/EA Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryApplication/LibraryApplication/LibraryApplication.iml" filepath="$PROJECT_DIR$/LibraryApplication/LibraryApplication/LibraryApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LibraryClientApplication/LibraryApplication/LibraryApplication (1).iml" filepath="$PROJECT_DIR$/LibraryClientApplication/LibraryApplication/LibraryApplication (1).iml" />
+    </modules>
+  </component>
+</project>
